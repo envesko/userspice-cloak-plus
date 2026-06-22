@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>Cloak+</name>
+  <author>Envesko</author>
+  <website>https://github.com/envesko/userspice-cloak-plus</website>
+  <version>1.2.0</version>
+  <release>June 22, 2026</release>
+  <tested>6.1.0</tested>
+  <fa_icon>fa fa-user-secret</fa_icon>
+  <description>Improved admin cloaking (impersonation) for UserSpice: a configurable cloak helper, a quick-cloak user picker, a persistent "you are cloaked" banner with one-click return (no logout needed), and a logout-to-uncloak hook. Options can be passed as an associative array.</description>
+  <button>Cloak+</button>
+</plugin>
